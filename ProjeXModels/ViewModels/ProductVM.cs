@@ -8,5 +8,6 @@ namespace ProjeXModels.ViewModels
 {
     internal class ProductVM
     {
+        //
     }
 }
